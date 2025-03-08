@@ -24,3 +24,16 @@ SQL Queries Performed
 ✅ Analyze High-Balance Customers Who Still Churned
 
 📌 For full queries, check CustomerChurnSQL.sql in the repository.
+
+Power BI Dashboard & Visuals:-
+This project includes an interactive Power BI dashboard to visualize customer churn patterns.
+
+🔹 Key Visuals in the Dashboard:
+✅ Churn Rate (%) → A card visual showing the percentage of churned customers.
+✅ Customer Distribution by Geography → A bar chart showing customers by country (France, Germany, Spain).
+✅ Churned vs. Non-Churned Customers by Age Group → A stacked bar chart comparing age groups.
+✅ Customer Activity Analysis → A donut chart visualizing active vs. inactive members.
+✅ Churn Rate by Credit Card Ownership → A pie chart showing the churn rate of customers who own a credit card.
+✅ Boxplot for Balance Distribution → A boxplot comparing the balance of churned vs. non-churned customers.
+✅ Churn Rate by Number of Products → A clustered bar chart showing churn across different product usage levels.
+✅ Churned Customers with High Balance → A scatter plot identifying high-balance churners.
