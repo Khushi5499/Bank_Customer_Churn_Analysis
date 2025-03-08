@@ -23,4 +23,4 @@ SQL Queries Performed
 ✅ Find Customers with Credit Cards Who Still Churned
 ✅ Analyze High-Balance Customers Who Still Churned
 
-📌 For full queries, check churn_queries.sql in the repository.
+📌 For full queries, check CustomerChurnSQL.sql in the repository.
